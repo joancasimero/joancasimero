@@ -3,7 +3,7 @@
 </p>
 
 <hr>
-<h1 align="center">hi hi! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="30px"> I'm joan :)) </h1>
+<h1 align="center">hi hi! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="30px"> i'm joan :)) </h1>
 <h3 align="center">20 | IT Student | Developer | Graphic Designer</h3>
 
 <h3 align="center">≽^• ˕ • ྀི≼</h3>
