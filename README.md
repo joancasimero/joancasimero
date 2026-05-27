@@ -1,47 +1,109 @@
-<p align="center">
-<img height="400" alt="Unicorn" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47f0vcbvfij4qs743pq6f0xgnsuxb65rywa2l64p45&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
-</p>
+<div align="center">
 
-<hr>
-<h1 align="center">hi hi! <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="30px"> i'm joan :)) </h1>
-<h3 align="center">21 | IT Student | Developer | Graphic Designer</h3>
+<img src="https://i.pinimg.com/originals/55/57/0f/55570f6f9c3e71b2cd7ffb06a57267b5.gif" />
 
-<h3 align="center">≽^• ˕ • ྀི≼</h3>
+</div>
 
-<p align="center">
-  <em>
-    i am a <b>team-oriented</b> and <b>persistent</b> IT student from <a href="https://national-u.edu.ph/"><b>National University - Manila</b></a>, passionate about developing <b>Mobile</b> and <b>Web Applications</b>. as a dedicated student, i'm constantly learning and pushing myself to tackle new challenges, embracing <b>creativity</b>, and crafting <b>innovative solutions</b> for the tech world.
-  </em>
-  <br>
-  <br>
-  <img src="https://media.giphy.com/media/TOSI9IqgQzzrDecyCD/giphy.gif" width="50" /> <b><i>jon's brain</i></b> <img src="https://media.giphy.com/media/TOSI9IqgQzzrDecyCD/giphy.gif" width="50" />
-</p>
+<div align="center">
 
-<img align="right" width="300px" alt="Coding" src="https://media.giphy.com/media/CvbzcnrrCDc1KfYo4c/giphy.gif" />
+# I'm Joan Casimero (•˕ •マ╮ᕤ
 
-<img src="https://media.giphy.com/media/3o7budeSc2lRUq8Du0/giphy.gif" width="30px">&nbsp;***things i know (somehow)***
-<p align="left">
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> </code>
-</p>
+### 22 • IT Student • Full-Stack Developer • UI/UX Designer • Graphic Artist
 
- <br>
-<hr>
- <br>
- 
-<p align="center">
-	<em>
-	 ࣪˖⟡˚౨ৎ⋆ welcome ⋆౨ৎ˚⟡˖ ࣪
-	</em>
-</p>
-<p align="center">
-	<img alt="GIF" height="160px" src="https://media.giphy.com/media/dIVwkt54REQO500FtK/giphy.gif" />
-</p>
+mind of jon
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Development;Mobile+Development;UI%2FUX+Design;Creative+Projects;Graphic+Art;Always+Learning" />
+
+</div>
+
+---
+
+# About Me ִ ࣪𖤐.ᐟ
+
+```txt
+> IT Student @ National University - Manila
+> love building fun and interactive web experiences
+> web • mobile • game dev | UI/UX + graphic design
+> always building, always experimenting 𓆝 𓆟 𓆞
+```
+
+---
+
+# Tech Stack ࣪ ִֶָ☾.
+
+<div align="center">
+
+<!-- HEADER -->
+<h2>tech !</h2>
+
+<!-- CORE STACK -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,flutter,java,python,html,css,javascript" />
+
+<br><br>
+
+<!-- TOOLS & CREATIVE -->
+<h2>tools & creative !</h2>
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,unity,git,github,vscode,sqlite,canva" />
+
+<br><br>
+
+<!-- OPTIONAL TABLE (clean + minimal) -->
+<h3>🧩 Breakdown</h3>
+
+<table align="center">
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Tools & Creative</th>
+  </tr>
+  <tr>
+    <td>React • HTML • CSS • JavaScript • Flutter</td>
+    <td>Node.js • Express • MongoDB • Firebase • Python • Java • SQLite</td>
+    <td>Git • GitHub • Figma • VS Code • Canva • Photoshop • Illustrator • Unity</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+# Let's Connect?
+
+<div align="center">
+
+<a href="https://github.com/joancasimero">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/jjoancasimero/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/cest.joancasimero/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@jon.notme?is_from_webapp=1&sender_device=pc">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+
+<a href="www.linkedin.com/in/joan-casimero-27b533312">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/05/b6/9b/05b69bf9c4989108d201b37180550d12.gif"/>
+
+```txt
+welcome 𐔌˙.
+```
+
+</div>
