@@ -51,7 +51,7 @@ mind of jon
 <br><br>
 
 <!-- OPTIONAL TABLE (clean + minimal) -->
-<h3>🧩 Breakdown</h3>
+<h3>let me break it down B)</h3>
 
 <table align="center">
   <tr>
