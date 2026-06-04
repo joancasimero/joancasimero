@@ -14,7 +14,7 @@ mind of jon
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Web+Development;Mobile+Development;UI%2FUX+Design;Creative+Projects;Graphic+Art;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=2000&color=EC4899&center=true&vCenter=true&width=600&lines=Web+Development;Mobile+Development;UI%2FUX+Design;Creative+Projects;Graphic+Art;Always+Learning" />
 
 </div>
 
